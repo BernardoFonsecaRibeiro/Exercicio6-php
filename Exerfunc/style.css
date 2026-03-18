@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #34495e;
+    border-bottom: 2px solid #bdc3c7;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+
+h3 {
+    color: #16a085;
+    margin-left: 10px;
+}
+
+p {
+    font-size: 1rem;
+    margin-left: 15px;
+}
+
+ul {
+    margin-left: 30px;
+    list-style-type: disc;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+br {
+    line-height: 1.5;
+}
